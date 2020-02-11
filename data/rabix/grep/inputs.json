@@ -1,0 +1,7 @@
+{
+    "input" : {
+    "path" : "dummy.fasta",
+    "class" : "File"
+    },
+    "pattern" : "GA"
+}
