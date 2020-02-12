@@ -1,93 +1,92 @@
 {
-      "class": "CommandLineTool",
-        "cwlVersion": "v1.0",
-          "$namespaces": {
-                  "sbg": "https://sevenbridges.com"
-                        },
-            "baseCommand": [
-                    "grep"
-                      ],
-              "inputs": [
-                      {
-                                "id": "pattern",
-                                      "type": "string",
-                                            "inputBinding": {
-                                                        "position": 1,
-                                                                "shellQuote": false
-                                                                          },
-                                                  "label": "Pattern"
-                                                          },
-                  {
-                            "id": "input",
-                                  "type": "File",
-                                        "inputBinding": {
-                                                    "position": 2,
-                                                            "shellQuote": false
-                                                                      }
-                                }
-        ],
-              "outputs": [
-                      {
-                                "id": "output",
-                                      "type": "File?",
-                                            "outputBinding": {
-                                                        "glob": "*.txt"
-                                                                  }
-                                    }
-          ],
-                "label": "grep",
-                  "arguments": [
-                          {
-                                    "position": 3,
-                                          "prefix": "",
-                                                "shellQuote": false,
-                                                      "valueFrom": "> out.txt"
-                                                              }
-            ],
-                  "requirements": [
-                          {
-                                    "class": "ShellCommandRequirement"
-                                            },
-                      {
-                                "class": "DockerRequirement",
-                                      "dockerPull": "images.sbgenomics.com/sevenbridges/ubuntu:14.04"
-                                              }
-              ],
-                    "sbg:projectName": "42",
-                      "sbg:revisionsInfo": [
-                              {
-                                        "sbg:revision": 0,
-                                              "sbg:modifiedBy": "vladimirk",
-                                                    "sbg:modifiedOn": 1572003292,
-                                                          "sbg:revisionNotes": null
-                                                                  },
-                          {
-                                    "sbg:revision": 1,
-                                          "sbg:modifiedBy": "vladimirk",
-                                                "sbg:modifiedOn": 1572003541,
-                                                      "sbg:revisionNotes": "init"
-                                                              }
-                ],
-                      "sbg:image_url": null,
-                        "sbg:appVersion": [
-                                "v1.0"
-                                  ],
-                          "id": "https://cgc-api.sbgenomics.com/v2/apps/vladimirk/42/grep/1/raw/",
-                            "sbg:id": "vladimirk/42/grep/1",
-                              "sbg:revision": 1,
-                                "sbg:revisionNotes": "init",
-                                  "sbg:modifiedOn": 1572003541,
-                                    "sbg:modifiedBy": "vladimirk",
-                                      "sbg:createdOn": 1572003292,
-                                        "sbg:createdBy": "vladimirk",
-                                          "sbg:project": "vladimirk/42",
-                                            "sbg:sbgMaintained": false,
-                                              "sbg:validationErrors": [],
-                                                "sbg:contributors": [
-                                                        "vladimirk"
-                                                          ],
-                                                  "sbg:latestRevision": 1,
-                                                    "sbg:publisher": "sbg",
-                                                      "sbg:content_hash": "af22044d66e195388096a4aabec0614407d37e19ec75b704885c51d8a91522901"
+    "class": "CommandLineTool",
+    "cwlVersion": "v1.0",
+    "$namespaces": {
+        "sbg": "https://sevenbridges.com"
+    },
+    "baseCommand": [
+        "grep"
+    ],
+    "inputs": [
+        {
+            "id": "pattern",
+            "type": "string",
+            "inputBinding": {
+                "position": 1,
+                "shellQuote": false
+            },
+            "label": "Pattern"
+        },
+        {
+            "id": "input",
+            "type": "File",
+            "inputBinding": {
+                "position": 2,
+                "shellQuote": false
+            }
+        }
+    ],
+    "outputs": [
+        {
+            "id": "output",
+            "type": "File?",
+            "outputBinding": {
+                "glob": "*.txt"
+            }
+        }
+    ],
+    "label": "grep",
+    "arguments": [
+        {
+            "position": 3,
+            "prefix": "",
+            "shellQuote": false,
+            "valueFrom": "> out.txt"
+        }
+    ],
+    "requirements": [
+        {
+            "class": "ShellCommandRequirement"
+        },
+        {
+            "class": "DockerRequirement",
+            "dockerPull": "images.sbgenomics.com/sevenbridges/ubuntu:14.04"
+        }
+    ],
+    "sbg:projectName": "42",
+    "sbg:revisionsInfo": [
+        {
+            "sbg:revision": 0,
+            "sbg:modifiedBy": "vladimirk",
+            "sbg:modifiedOn": 1572003292,
+            "sbg:revisionNotes": null
+        },
+        {
+            "sbg:revision": 1,
+            "sbg:modifiedBy": "vladimirk",
+            "sbg:modifiedOn": 1572003541,
+            "sbg:revisionNotes": "init"
+        }
+    ],
+    "sbg:image_url": null,
+    "sbg:appVersion": [
+        "v1.0"
+    ],
+    "id": "https://cgc-api.sbgenomics.com/v2/apps/vladimirk/42/grep/1/raw/",
+    "sbg:id": "vladimirk/42/grep/1",
+    "sbg:revision": 1,
+    "sbg:revisionNotes": "init",
+    "sbg:modifiedOn": 1572003541,
+    "sbg:modifiedBy": "vladimirk",
+    "sbg:createdOn": 1572003292,
+    "sbg:createdBy": "vladimirk",
+    "sbg:project": "vladimirk/42",
+    "sbg:sbgMaintained": false,
+    "sbg:validationErrors": [],
+    "sbg:contributors": [
+        "vladimirk"
+    ],
+    "sbg:latestRevision": 1,
+    "sbg:publisher": "sbg",
+    "sbg:content_hash": "af22044d66e195388096a4aabec0614407d37e19ec75b704885c51d8a91522901"
 }
-
