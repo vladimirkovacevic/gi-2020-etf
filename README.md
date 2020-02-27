@@ -11,4 +11,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 
 **20. Feb. 2020:**  Prva vežba (domaći zadatak) je dostupna za izradu. Potrebno je prateći [uputstva](https://github.com/vladimirkovacevic/gi-2020-etf/blob/master/exercise/fastqc/FastQC_Wrapping_exercise.pdf) opisati u CWL i izvršiti analizu alatom FastQC. Link ka uspešno izvršenoj analizi zajedno sa imenom, prezimenom i brojem indeksa je potrebno poslati na e-mail vladimir.kovacevic"sbgenomics.com do četvrtka, 27. februara 2020.
 
+**27. Feb. 2020:**  Četvrto predavanje iz genomske informatike će se održati u sredu, 4. marta 2020. godine u učionici 55 sa početkom u 18h.
 
