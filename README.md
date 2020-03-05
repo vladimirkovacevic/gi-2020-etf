@@ -14,3 +14,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **27. Feb. 2020:**  Četvrto predavanje iz genomske informatike će se održati u sredu, 4. marta 2020. godine u učionici 55 sa početkom u 18h.
 
 **27. Feb. 2020:**  Druga vežba (domaći zadatak) je dostupna za izradu. Tekst je u slajdovima sa predavanja treće lekcije. Rok za izradu je 5. mart 2020. Za sva pitanja napravite issue na ovom repozitorijumu. Srećan rad.
+
+**5. Mar. 2020:** Jedan od lidera CWL projekta Michael Crusoe nudi priliku za studente da rade projekte koje organizuje Open Bioinformatics Foundation preko [Google Summer of Code](https://www.open-bio.org/events/gsoc/gsoc-project-ideas/). Projekat se plaća po učinku. Poslednja 2 projekta su vezana za CWL, na sajtu se nalaze detaljnije informacije. Ovaj projekat može ujedno biti i projekat iz Genomske informatike.
