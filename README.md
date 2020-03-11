@@ -2,6 +2,7 @@
 Repozitor sadrzi materijale za kurs Genomske informatike 2020 - Elektrotehnički fakultet, Univerzitet u Beogradu
 
 Materijali za kurs Genomske informatike [2019](https://github.com/vladimirkovacevic/gi-2019-etf).
+
 [Projektni zadaci](https://docs.google.com/document/d/1i0J7V2VtIIqHuQw3GbmjRi8xkk91L2A-g0NhGNrs8KU/edit?ts=5e68c2c5#).
 
 ## Obaveštenja o kursu
