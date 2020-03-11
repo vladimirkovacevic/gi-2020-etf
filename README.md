@@ -2,6 +2,7 @@
 Repozitor sadrzi materijale za kurs Genomske informatike 2020 - Elektrotehnički fakultet, Univerzitet u Beogradu
 
 Materijali za kurs Genomske informatike [2019](https://github.com/vladimirkovacevic/gi-2019-etf).
+[Projektni zadaci](https://docs.google.com/document/d/1i0J7V2VtIIqHuQw3GbmjRi8xkk91L2A-g0NhGNrs8KU/edit?ts=5e68c2c5#).
 
 ## Obaveštenja o kursu
 **10. Feb. 2020:** Termin predavanja je četvrtak, 18h, učionica 314 ili 315.
@@ -16,3 +17,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **27. Feb. 2020:**  Druga vežba (domaći zadatak) je dostupna za izradu. Tekst je u slajdovima sa predavanja treće lekcije. Rok za izradu je 5. mart 2020. Za sva pitanja napravite issue na ovom repozitorijumu. Srećan rad.
 
 **5. Mar. 2020:** Jedan od lidera CWL projekta Michael Crusoe nudi priliku za studente da rade projekte koje organizuje Open Bioinformatics Foundation preko [Google Summer of Code](https://www.open-bio.org/events/gsoc/gsoc-project-ideas/). Projekat se plaća po učinku. Poslednja 2 projekta su vezana za CWL, na sajtu se nalaze detaljnije informacije. Ovaj projekat može ujedno biti i projekat iz Genomske informatike.
+
+**11. Mar. 2020:** Objavljena su prva dva [projektna zadatka](https://docs.google.com/document/d/1i0J7V2VtIIqHuQw3GbmjRi8xkk91L2A-g0NhGNrs8KU/edit?ts=5e68c2c5#).
