@@ -20,3 +20,6 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **5. Mar. 2020:** Jedan od lidera CWL projekta Michael Crusoe nudi priliku za studente da rade projekte koje organizuje Open Bioinformatics Foundation preko [Google Summer of Code](https://www.open-bio.org/events/gsoc/gsoc-project-ideas/). Projekat se plaća po učinku. Poslednja 2 projekta su vezana za CWL, na sajtu se nalaze detaljnije informacije. Ovaj projekat može ujedno biti i projekat iz Genomske informatike.
 
 **11. Mar. 2020:** Objavljena su prva dva [projektna zadatka](https://docs.google.com/document/d/1i0J7V2VtIIqHuQw3GbmjRi8xkk91L2A-g0NhGNrs8KU/edit?ts=5e68c2c5#).
+
+**16. Mar. 2020:** Naredna predavanja iz Genomske informatike biće držana isključivo online. Preko [google hangouts linka](https://meet.google.com/rux-avgm-psx) se možete povezati. Naredno predavanje je u četvrtak 19. marta u 18:15.
+
