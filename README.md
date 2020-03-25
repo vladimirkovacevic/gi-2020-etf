@@ -6,6 +6,9 @@ Materijali za kurs Genomske informatike [2019](https://github.com/vladimirkovace
 [Projektni zadaci](https://docs.google.com/document/d/1i0J7V2VtIIqHuQw3GbmjRi8xkk91L2A-g0NhGNrs8KU/edit?ts=5e68c2c5#).
 
 ## Obaveštenja o kursu
+
+**10. Feb. 2020:** Termin predavanja je četvrtak, 18h, učionica 314 ili 315.
+
 **10. Feb. 2020:** Termin predavanja je četvrtak, 18h, učionica 314 ili 315.
 
 **13. Feb. 2020:**  Svim studentima je omogućena besplatna registracija na [Cancer Genomics Cloud](http://www.cancergenomicscloud.org/) platformu sa email sa fakultetskom email adresom. Po registraciji dobija se 300 dolara kredita koji se može koristiti za pokretanje analiza na cloud-u. Takođe je moguće pokrenuti Jupiter notebook okruženje tako što se po kreiranju projekta pokrene [Interactive analysis](https://docs.sevenbridges.com/docs/interactive-analysis-on-the-platform), pa
@@ -23,3 +26,4 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 
 **16. Mar. 2020:** Naredna predavanja iz Genomske informatike biće držana isključivo online. Preko [google hangouts linka](https://meet.google.com/rux-avgm-psx) se možete povezati. Naredno predavanje je u četvrtak 19. marta u 18:15.
 
+**25. Mar. 2020:** [Link za naredno predavanje iz GI - četvrtak 26. mart u 18:15.](https://meet.google.com/ewf-jtty-dzk) Vidimo se!
