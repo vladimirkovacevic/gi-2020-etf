@@ -27,3 +27,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **16. Mar. 2020:** Naredna predavanja iz Genomske informatike biće držana isključivo online. Preko [google hangouts linka](https://meet.google.com/rux-avgm-psx) se možete povezati. Naredno predavanje je u četvrtak 19. marta u 18:15.
 
 **25. Mar. 2020:** [Link za naredno predavanje iz GI - četvrtak 26. mart u 18:15.](https://meet.google.com/ewf-jtty-dzk) Vidimo se!
+
+**26. Feb. 2020:**  Treća vežba (domaći zadatak) je dostupna za izradu. Potrebno je prateći [uputstva](https://github.com/vladimirkovacevic/gi-2020-etf/blob/master/exercise/gene_exp_quantification/kvantifikacija_domaci.pdf) poravnati ridove i kvantifikovati ekspresiju pomoću alata Tophat2 i HTSeq, pa adaptirati python kod za normalizaciju. Do nedelje 6. aprila 2020 dodati usera marko_zecevic u CGC projekat u kojem je izvršena analiza.
