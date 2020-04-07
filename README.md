@@ -31,3 +31,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **26. Feb. 2020:**  Treća vežba (domaći zadatak) je dostupna za izradu. Potrebno je prateći [uputstva](https://github.com/vladimirkovacevic/gi-2020-etf/blob/master/exercise/gene_exp_quantification/kvantifikacija_domaci.pdf) poravnati ridove i kvantifikovati ekspresiju pomoću alata Tophat2 i HTSeq, pa adaptirati python kod za normalizaciju. Do nedelje 6. aprila 2020 dodati usera marko_zecevic u CGC projekat u kojem je izvršena analiza.
 
 **01. Apr. 2020:** Predavanje iz GI planirano za četvrtak 02.04. neće se održati. Sledeće predavanje će biti u četvrtak 09.04. u standardnom terminu od 18:15. 
+
+**07. Apr. 2020:** [Link za naredno predavanje iz GI - četvrtak 09. april u 18:15.](https://meet.google.com/gxo-nqgw-har) Vidimo se!
