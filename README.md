@@ -37,3 +37,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **14. Apr. 2020:** [Link za naredno predavanje iz GI - četvrtak 16. april u 18:15.](https://meet.google.com/qft-ktvq-wdi)
 
 **19. Apr. 2020:** [Link za naredno predavanje iz GI - četvrtak 23. april u 18:15.](https://meet.google.com/wch-tzrb-bsr) Vidimo se!
+
+**27. Apr. 2020:** [Link za naredno predavanje iz GI - četvrtak 30. april u 18:15.](https://meet.google.com/cgh-vinv-ddt) Vidimo se!
