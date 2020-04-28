@@ -39,3 +39,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **19. Apr. 2020:** [Link za naredno predavanje iz GI - četvrtak 23. april u 18:15.](https://meet.google.com/wch-tzrb-bsr) Vidimo se!
 
 **27. Apr. 2020:** [Link za naredno predavanje iz GI - četvrtak 30. april u 18:15.](https://meet.google.com/cgh-vinv-ddt) Vidimo se!
+
+**28. Apr. 2020:** Ne spada u gradivo kursa ali može biti zanimljivo za razumevanje - [šta je savremena bioinformatika](https://www.sevenbridges.com/assessing-state-of-the-art-bioinformatics/).
