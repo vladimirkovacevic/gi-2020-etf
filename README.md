@@ -5,6 +5,8 @@ Materijali za kurs Genomske informatike [2019](https://github.com/vladimirkovace
 
 [Projektni zadaci](https://docs.google.com/document/d/1i0J7V2VtIIqHuQw3GbmjRi8xkk91L2A-g0NhGNrs8KU/edit?ts=5e68c2c5#).
 
+[Video snimci predavanja](https://www.youtube.com/watch?v=aLIJ-Uy5AdE&list=PLGJwCUeHsVMeFJ1AeDwe7QpjZWiI3dhwS&index=2&t=173s)
+
 ## Obaveštenja o kursu
 
 **10. Feb. 2020:** Termin predavanja je četvrtak, 18h, učionica 314 ili 315.
@@ -43,3 +45,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **28. Apr. 2020:** Ne spada u gradivo kursa ali može biti zanimljivo za razumevanje - [šta je savremena bioinformatika](https://www.sevenbridges.com/assessing-state-of-the-art-bioinformatics/).
 
 **05. Maj 2020:** [Link za naredno predavanje iz GI - četvrtak 07. maj u 18:15.](https://meet.google.com/cgh-vinv-ddt) Vidimo se!
+
+**08.Maj 2020:** [Video snimci svih 12 predavanja](https://www.youtube.com/watch?v=aLIJ-Uy5AdE&list=PLGJwCUeHsVMeFJ1AeDwe7QpjZWiI3dhwS&index=2&t=173s)
