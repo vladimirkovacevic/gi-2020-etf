@@ -47,3 +47,6 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **05. Maj 2020:** [Link za naredno predavanje iz GI - četvrtak 07. maj u 18:15.](https://meet.google.com/cgh-vinv-ddt) Vidimo se!
 
 **08.Maj 2020:** [Video snimci svih 12 predavanja](https://www.youtube.com/watch?v=aLIJ-Uy5AdE&list=PLGJwCUeHsVMeFJ1AeDwe7QpjZWiI3dhwS&index=2&t=173s)
+
+**18. Maj 2020** [Poslednje online predavanje iz genomske informatike](meet.google.com/vnx-hipa-tqh) sa studentiskim prezentacijama ce biti odrzano 28. maja u 18:00. Dobrodosli!
+
