@@ -7,6 +7,8 @@ Materijali za kurs Genomske informatike [2019](https://github.com/vladimirkovace
 
 [Video snimci predavanja](https://www.youtube.com/watch?v=aLIJ-Uy5AdE&list=PLGJwCUeHsVMeFJ1AeDwe7QpjZWiI3dhwS&index=2&t=173s)
 
+[Studentske prezentacije - slajdovi](https://docs.google.com/presentation/d/19rQpjXwh2AM2TQJ8S5Apexi8FhNOm12urbhg8jWMOY0/edit?usp=sharing)
+
 ## Obaveštenja o kursu
 
 **10. Feb. 2020:** Termin predavanja je četvrtak, 18h, učionica 314 ili 315.
