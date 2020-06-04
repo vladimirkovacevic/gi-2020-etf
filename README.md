@@ -52,3 +52,4 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 
 **18. Maj 2020** [Poslednje online predavanje iz genomske informatike](https://meet.google.com/vnx-hipa-tqh) sa studentiskim prezentacijama ce biti odrzano 28. maja u 18:00. Dobrodosli!
 
+**04. Jun 2020** Ispit iz genomske informatike u junskom ispitnom roku će biti odžan u četvrtak, 11. juna 2020. u 18:00, učionica 310. Ponesite vežbanke.
