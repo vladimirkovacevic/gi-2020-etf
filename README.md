@@ -55,3 +55,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **04. Jun 2020:** Ispit iz genomske informatike u junskom ispitnom roku će biti odžan u četvrtak, 11. juna 2020. u 18:00, učionica 310. Ponesite vežbanke.
 
 **05. Jun 2020:** [Snimak poslednjeg predavnja](https://www.youtube.com/watch?v=B2EKCGjj1hU&list=PLGJwCUeHsVMeFJ1AeDwe7QpjZWiI3dhwS&index=14&t=0s). Hvala svim studentima na odlicnim prezentacijama.
+
+**15. Jun 2020:** [Rezultati junskog ispitnog roka](https://docs.google.com/spreadsheets/d/133k39XjjZKGWGN_wzd22g2uhLwTkz9H4gLaZu-2d6h0/edit?usp=sharing). U dokumentu su takođe i rezultati sa svih predispitnih obaveza, molim da proverite i da javite ukoliko smatrate da postoji eventualni previd ili greška.
