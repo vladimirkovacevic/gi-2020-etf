@@ -56,4 +56,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 
 **05. Jun 2020:** [Snimak poslednjeg predavnja](https://www.youtube.com/watch?v=B2EKCGjj1hU&list=PLGJwCUeHsVMeFJ1AeDwe7QpjZWiI3dhwS&index=14&t=0s). Hvala svim studentima na odlicnim prezentacijama.
 
-**15. Jun 2020:** [Rezultati junskog ispitnog roka](https://docs.google.com/spreadsheets/d/133k39XjjZKGWGN_wzd22g2uhLwTkz9H4gLaZu-2d6h0/edit?usp=sharing). U dokumentu su takođe i rezultati sa svih predispitnih obaveza, molim da proverite i da javite ukoliko smatrate da postoji eventualni previd ili greška.
+**15. Jun 2020:** [Rezultati junskog ispitnog roka](https://docs.google.com/spreadsheets/d/133k39XjjZKGWGN_wzd22g2uhLwTkz9H4gLaZu-2d6h0/edit?usp=sharing). U dokumentu su takođe i rezultati sa svih predispitnih obaveza za sve studente
+, molim da proverite i da javite ukoliko smatrate da postoji eventualni previd ili greška.
