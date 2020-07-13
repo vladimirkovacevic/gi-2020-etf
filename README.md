@@ -58,3 +58,7 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 
 **15. Jun 2020:** [Rezultati junskog ispitnog roka](https://docs.google.com/spreadsheets/d/133k39XjjZKGWGN_wzd22g2uhLwTkz9H4gLaZu-2d6h0/edit?usp=sharing). U dokumentu su takođe i rezultati sa svih predispitnih obaveza za sve studente
 , molim da proverite i da javite ukoliko smatrate da postoji eventualni previd ili greška.
+
+
+
+**13. Jul 2020:** [Rezultati julskog ispitnog roka](https://docs.google.com/spreadsheets/d/133k39XjjZKGWGN_wzd22g2uhLwTkz9H4gLaZu-2d6h0/edit?ts=5e53c963#gid=829696540). Sve ocene će biti upisane ukoliko ne javite suprotno.
