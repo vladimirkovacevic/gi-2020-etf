@@ -65,5 +65,5 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 
 **15. Avg. 2020:** Ispit iz genomske informatike u avgustovskom ispitnom roku će biti odžan u sredu, 19. avgusta, u 18:30, u sali 57. Ponesite vežbanke.
 
-**27. Avg. 2020:** Ispit iz genomske informatike u septembarskom ispitnom roku će biti odžan u sredu, 16. septembra, u 18:30. Na studentskim servisima pise drugi datum, da znate da vas ne zbuni. 
+**27. Avg. 2020:** Ispit iz genomske informatike u septembarskom ispitnom roku će biti odžan u sredu, 16. septembra, u 18:30, sala 57. Na studentskim servisima pise drugi datum, da znate da vas ne zbuni. 
 
