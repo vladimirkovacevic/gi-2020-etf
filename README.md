@@ -59,11 +59,10 @@ Data Cruncher. Ugodan rad vam želimo! Za sva pitanja i sugestije obratite se na
 **15. Jun 2020:** [Rezultati junskog ispitnog roka](https://docs.google.com/spreadsheets/d/133k39XjjZKGWGN_wzd22g2uhLwTkz9H4gLaZu-2d6h0/edit?usp=sharing). U dokumentu su takođe i rezultati sa svih predispitnih obaveza za sve studente
 , molim da proverite i da javite ukoliko smatrate da postoji eventualni previd ili greška.
 
-
-
 **13. Jul 2020:** [Rezultati julskog ispitnog roka](https://docs.google.com/spreadsheets/d/133k39XjjZKGWGN_wzd22g2uhLwTkz9H4gLaZu-2d6h0/edit?ts=5e53c963#gid=829696540). Sve ocene će biti upisane ukoliko ne javite suprotno.
 
 **15. Avg. 2020:** Ispit iz genomske informatike u avgustovskom ispitnom roku će biti odžan u sredu, 19. avgusta, u 18:30, u sali 57. Ponesite vežbanke.
 
 **27. Avg. 2020:** Ispit iz genomske informatike u septembarskom ispitnom roku će biti odžan u sredu, 16. septembra, u 18:30, sala 57. Na studentskim servisima pise drugi datum, da znate da vas ne zbuni. 
 
+**21. Sep. 2020:** Ispit iz genomske informatike u oktobarskom ispitnom roku će biti odžan u ponedeljak, 28. septembra, u 8:00, sala 314. Ponesite vežbanke.
